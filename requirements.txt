@@ -1,0 +1,7 @@
+dash==2.18.1
+pandas
+numpy
+plotly.express
+glob
+re
+gunicorn
